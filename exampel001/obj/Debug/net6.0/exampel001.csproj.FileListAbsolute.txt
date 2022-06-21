@@ -1,0 +1,15 @@
+G:\GeekBrains\C#\Examples\exampel001\bin\Debug\net6.0\exampel001.exe
+G:\GeekBrains\C#\Examples\exampel001\bin\Debug\net6.0\exampel001.deps.json
+G:\GeekBrains\C#\Examples\exampel001\bin\Debug\net6.0\exampel001.runtimeconfig.json
+G:\GeekBrains\C#\Examples\exampel001\bin\Debug\net6.0\exampel001.dll
+G:\GeekBrains\C#\Examples\exampel001\bin\Debug\net6.0\exampel001.pdb
+G:\GeekBrains\C#\Examples\exampel001\obj\Debug\net6.0\exampel001.csproj.AssemblyReference.cache
+G:\GeekBrains\C#\Examples\exampel001\obj\Debug\net6.0\exampel001.GeneratedMSBuildEditorConfig.editorconfig
+G:\GeekBrains\C#\Examples\exampel001\obj\Debug\net6.0\exampel001.AssemblyInfoInputs.cache
+G:\GeekBrains\C#\Examples\exampel001\obj\Debug\net6.0\exampel001.AssemblyInfo.cs
+G:\GeekBrains\C#\Examples\exampel001\obj\Debug\net6.0\exampel001.csproj.CoreCompileInputs.cache
+G:\GeekBrains\C#\Examples\exampel001\obj\Debug\net6.0\exampel001.dll
+G:\GeekBrains\C#\Examples\exampel001\obj\Debug\net6.0\refint\exampel001.dll
+G:\GeekBrains\C#\Examples\exampel001\obj\Debug\net6.0\exampel001.pdb
+G:\GeekBrains\C#\Examples\exampel001\obj\Debug\net6.0\exampel001.genruntimeconfig.cache
+G:\GeekBrains\C#\Examples\exampel001\obj\Debug\net6.0\ref\exampel001.dll
